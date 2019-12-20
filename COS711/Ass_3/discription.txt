@@ -1,0 +1,10 @@
+Predict future soil moisture, framing the problem as "Predicting the soil moisture for the current timestamp based on previous data".
+Data is prepared by imputing missing values, normilizing via MinMax between 0 and 1. Enhancing the data inputed by having additional "Future value columns"
+Model is trained using LSTM recurrent neural network
+Parameters are optimized using Sobol numbers
+Cross validation used along with Root Mean Squared Error is used to determine the performance of the model
+Mean Absolute error used for Loss function
+Gradient Descent is used as optimization function
+
+Myron Ouyang
+Michael Yatrakos

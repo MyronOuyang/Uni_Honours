@@ -1,0 +1,5 @@
+Indirect: 15013 Direct: 11986
+Indirect: 13888 Direct: 12344
+Indirect: 14327 Direct: 11380
+Indirect: 18072 Direct: 12529
+Indirect: 14242 Direct: 12170

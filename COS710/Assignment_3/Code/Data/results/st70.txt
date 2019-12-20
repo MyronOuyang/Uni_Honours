@@ -1,0 +1,5 @@
+Indirect: 2073 Direct: 1338
+Indirect: 1928 Direct: 1243
+Indirect: 2214 Direct: 1473
+Indirect: 1921 Direct: 1299
+Indirect: 2204 Direct: 1350

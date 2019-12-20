@@ -1,0 +1,5 @@
+Indirect: 101238 Direct: 58829
+Indirect: 105029 Direct: 65612
+Indirect: 102430 Direct: 57900
+Indirect: 102022 Direct: 60711
+Indirect: 97665 Direct: 60341

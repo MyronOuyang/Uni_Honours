@@ -1,0 +1,5 @@
+Indirect: 5059 Direct: 2901
+Indirect: 4626 Direct: 3051
+Indirect: 5104 Direct: 3170
+Indirect: 4660 Direct: 3001
+Indirect: 4977 Direct: 2932

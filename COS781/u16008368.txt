@@ -1,0 +1,35 @@
+1.1
+    Time series: 
+        System monitoring, storing the change of state of the system over a period of Time. 
+    Temporal: 
+        Shop inventory system, storing the time of purchase, time of sale and best before date etc. This system stores the discrete time of various aspects of a product. 
+1.2
+    MapReduce is relatively slow in terms of processing speed; as data needs to go through two functions (mapping, reducing).
+    It is bad at real time data processing, as it can only process batches of data at a time.
+2.1
+    The mean is affected by outliers, which can bias the result.
+    The average result may not necessarily make sense in terms of the other attribute values in the tuple.
+2.2 
+    Skewed data is not handled well, outliers tend to dominate results.
+2.3
+    Digitization, OCR and scanning documents into digital format.
+    Conversion of data types from string to specific data types
+    Editing and ordering hard copy data
+3.1
+    There is no clear way to tell what attributes of the data are relevant to the models you are trying to generate.
+3.2
+    It provides context to the data, bad scaling could result in the visualizations being misleading due to disproportional ratios and visualization of the data.
+3.3
+    To view the growth of support tickets received by a company over the last 30 days. A cumulative histogram is necessary to adequately view the growth over a period of time as opposed to a normal histogram which will only show the growth per day and not over the time period.
+3.4
+    It is able to easily visualize multiple dimensions/ attributes of data in a single representation. It makes use of the human ability to easily distinguish differences in facial features.
+4.1
+    Missing data is replaced with averages based on the center of each subclass as an estimation.
+4.2
+    Interpolating neurons are far away from any data point and thus this distance can be used to identify different clusters of neurons. This is easily visualized in U matrices as they clearly indicated changes in distances between neurons.
+4.3
+    
+5.1
+    The square of the distance in Euclidean distance can exaggerate the end result due to edge cases and outliers in the data, whereas Manhattan makes use of absolute values. This means that the distance between points is taken as is and not modified/ exaggerated.
+5.2
+    A grouping

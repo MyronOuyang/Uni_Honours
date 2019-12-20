@@ -1,0 +1,5 @@
+Indirect: 87549 Direct: 61743
+Indirect: 96705 Direct: 59644
+Indirect: 87570 Direct: 59377
+Indirect: 103065 Direct: 57486
+Indirect: 97309 Direct: 58217

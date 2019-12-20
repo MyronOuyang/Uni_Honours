@@ -1,0 +1,5 @@
+Indirect: 100793 Direct: 61379
+Indirect: 99402 Direct: 53552
+Indirect: 96033 Direct: 61251
+Indirect: 95586 Direct: 57750
+Indirect: 104904 Direct: 57143

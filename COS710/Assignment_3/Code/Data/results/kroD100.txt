@@ -1,0 +1,5 @@
+Indirect: 93202 Direct: 60332
+Indirect: 99259 Direct: 58212
+Indirect: 101322 Direct: 55821
+Indirect: 87721 Direct: 63470
+Indirect: 88785 Direct: 55535

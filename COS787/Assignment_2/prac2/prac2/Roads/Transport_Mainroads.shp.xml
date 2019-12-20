@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{D4F74168-964D-426A-8237-D1AA5205B977}</MetaID><CreaDate>20100222</CreaDate><CreaTime>10463500</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20100222" Time="104635">DefineProjection Transport_Mainroads GEOGCS['GCS_Hartebeesthoek_1994',DATUM['D_Hartebeesthoek_1994',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] Transport_Mainroads</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,5 @@
+Indirect: 159858 Direct: 96863
+Indirect: 148868 Direct: 101170
+Indirect: 164388 Direct: 86836
+Indirect: 159404 Direct: 95052
+Indirect: 147960 Direct: 99354

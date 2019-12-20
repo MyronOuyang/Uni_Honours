@@ -1,0 +1,5 @@
+Indirect: 314202 Direct: 180107
+Indirect: 275992 Direct: 172311
+Indirect: 297513 Direct: 179041
+Indirect: 306305 Direct: 171653
+Indirect: 278411 Direct: 198903

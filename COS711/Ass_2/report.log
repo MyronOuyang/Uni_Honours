@@ -1,0 +1,156 @@
+2019-10-06 18:38:57,554 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 20:12:49,524 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 20:13:23,214 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 20:13:23,428 - pyswarms.single.global_best - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-06 20:14:28,123 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 20:14:33,067 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-06 20:15:11,214 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.641344760918836, best pos: [-1.84618048e-01 -2.46369114e-02 -6.67819549e-01  1.38076948e-01
+ -3.48634308e-01 -1.27092117e+00  6.85444084e-02 -5.27707912e-01
+ -2.62658295e-02  2.86326680e-01  4.30904727e-01  1.22406883e-01
+ -5.62807594e-01 -1.10545677e+00 -1.16682549e+00  5.25226892e-01
+  2.42983712e-01 -6.17478054e-01 -1.23385824e+00 -1.27946044e-01
+ -3.06175439e-01 -2.25510249e-01 -3.74201885e-01 -5.86780697e-01
+ -3.18488130e-01  5.71619027e-02 -8.02064899e-01  1.29828707e-02
+ -8.13081587e-02 -1.13115125e-01  2.08165003e-01 -4.27544782e-01
+ -5.80659548e-02 -1.07671912e+00  1.07673123e-01 -1.65926708e-01
+  9.16945628e-02  1.14619405e-01 -9.27373110e-01 -7.17848572e-02
+ -1.62653975e+00 -6.37638494e-01  6.09766887e-01 -3.65390174e-01
+ -2.23329450e-01 -3.78774924e-01 -1.51076099e-01 -5.42589122e-01
+ -6.41194695e-01 -8.82504909e-01  6.23346416e-01  3.62203181e-01
+ -1.40569316e+00  1.33934164e-01 -5.65376413e-01 -4.70596268e-01
+ -4.94969642e-01  1.35735852e-01  4.99808621e-01  1.73534828e-04
+  2.36735670e-01 -1.54626624e+00  3.95784883e-01  1.34617223e-03
+  1.25332597e-01 -4.38164925e-01 -7.88827524e-01  5.21442525e-01
+ -3.52106178e-01 -8.50904368e-01 -5.27859010e-02 -2.86848380e-01
+  4.80531171e-01 -4.90056155e-01  3.85045854e-01  1.72082888e-01
+ -1.02597317e-01  3.63757494e-01 -4.91033980e-01  3.88384287e-02
+ -1.84149331e-01 -4.21730189e-01 -3.51236864e-01 -3.55276444e-01
+  3.71762506e-01 -1.32507703e+00  2.96011837e-01 -5.58979444e-01
+  1.03127164e-01 -6.30166905e-02  3.19960446e-01 -1.15257731e+00
+  5.33951806e-02 -6.51554085e-01 -1.09068271e+00 -6.74100178e-01
+ -4.46009096e-01 -1.22421471e+00 -1.40978469e-01 -2.12964201e-01
+ -3.06681936e-01]
+2019-10-06 20:35:51,284 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 20:36:19,008 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-06 20:45:47,497 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 20:55:56,435 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-06 21:01:34,576 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 21:12:14,710 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-06 21:12:14,997 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-06 21:13:17,314 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.5474480201891803, best pos: [-0.3508757  -0.48575883 -1.0439271  -1.44023339 -0.90070553 -0.06209843
+ -1.17990315  0.15584885 -0.60227549 -0.70445292 -0.49131081 -0.69149301
+  0.59692508 -0.26456216 -0.49141785  0.11181905 -1.17599598 -0.52016263
+ -0.34115242  0.06299563 -0.14559853  0.15683849 -0.59865575 -0.79344825
+ -0.83242797 -0.41333638 -0.10426068 -1.55831286 -1.07594601 -0.08876165
+ -0.907711   -0.47882218 -1.08388042 -1.02441522 -1.18519231 -0.40683602
+ -0.48962527 -0.31289461  0.04916772 -0.0129858  -0.28706024 -0.70493293
+ -0.64922042 -1.69944758 -1.18843803  0.20055953 -0.54825938 -0.84566498
+ -0.56834655  0.49340208 -1.04350667 -0.59144315 -0.66415018 -0.42944051
+  0.1382623   0.15830155 -0.44543902 -2.17252664 -1.03847442  0.02067733
+ -0.67577953 -0.7588241  -0.61619817  0.1746065  -0.39642708 -0.67899216
+  0.6081594   0.04390936 -0.51231215 -0.47657061 -0.49291761 -0.67152825
+ -0.27872682 -0.56423585 -0.15373343 -0.28031207 -1.97426911  0.09651104
+ -1.51994274 -0.22651467 -0.83136271 -1.55801774 -0.62854267 -0.68285175
+  0.36648446  0.04753632 -0.24132589 -1.21229937  0.52006806 -1.13115461
+ -1.33975093 -1.39126622 -0.06035563 -0.02517948 -0.11540338  0.24045401
+ -0.78472216 -0.2020436  -1.50717265  0.31431277 -0.5093008 ]
+2019-10-07 17:32:46,455 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:32:46,635 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-10-07 17:32:47,018 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:33:18,158 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:33:18,227 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-10-07 17:33:18,482 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:33:38,886 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:33:38,947 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-10-07 17:33:39,210 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:34:18,538 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:34:18,603 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-10-07 17:34:18,878 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:34:53,528 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:34:53,589 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-10-07 17:34:53,827 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:35:36,016 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:35:36,074 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2019-10-07 17:35:39,216 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:36:44,481 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:36:44,725 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:37:42,339 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.6548735344816649, best pos: [ 0.50368337  0.2117751   0.74841991  0.59616412  0.19415736  0.58946675
+  0.60660353  0.27970703 -0.68676255 -0.16717081  0.3035118  -0.12890837
+  0.17547571  0.45060994  0.48968401  0.42528477 -0.0319061   0.80786711
+  0.82430193  0.01787956  0.43607765  0.44483175 -0.16565995  0.29691882
+  0.28868328  0.69310391  0.32301828  0.48172497 -0.09581939 -0.21127702
+  0.34147749  0.29152144 -0.18313493 -0.00189075  0.57519342  0.37563155
+  0.06847189  0.06664471 -0.12861416  0.53227888  0.01665184  0.17814245
+  0.23266378  0.30189523  0.79814853  0.25542498 -0.5203521   0.26525956
+  0.21762375 -0.12228276 -0.30479484  0.56158758  0.37914315  0.05009941
+  0.05676043 -0.70872494  0.02377609  0.2112903  -0.23004304  0.36998337
+  0.26202544  0.5678021  -0.66754633  0.26033    -0.44089886 -0.11794657
+  0.49319878  0.01264744  0.33322431  0.63204731  0.58864222  0.69897003
+  0.11511103  0.59032753  0.36778477  0.25600495 -0.27440435  0.3001315
+ -0.21289875  0.17896071  0.24463956  0.58081295  0.83020304 -0.10693377
+ -0.25726809  0.30033284  0.55886837  0.28038969  0.36244973 -0.34682701
+ -0.03851242 -0.38997903  0.09739371 -0.15203791  0.19465898  0.14497814
+ -0.2243798   0.23410292  0.63833016  0.53397122 -0.90763793]
+2019-10-07 17:38:36,154 - tensorflow - WARNING - From E:\___WORK___\Python3.7.1\lib\site-packages\tensorflow\python\framework\op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-10-07 17:38:36,447 - pyswarms.single.global_best - INFO - Optimize for 10 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2019-10-07 17:39:35,801 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.4939268963225697, best pos: [-0.05180408 -0.07592751 -0.32353118 -0.49352838 -0.48578352 -0.82091601
+ -0.31567917 -0.42602987 -0.15566075 -0.4516295  -1.6208015  -0.96627105
+  0.49248088 -1.86246344 -0.34089378 -0.79848274 -1.26695673 -1.17275732
+ -1.50051354 -0.30611856 -1.95526268 -0.65331236 -0.48062195  0.21384092
+ -1.86669991 -0.33694774 -0.05342403 -0.28044288 -0.87312367 -0.47044766
+ -0.44453849  0.13747541 -0.29108207 -0.46451031 -0.33805165 -0.01161953
+ -0.45668348 -0.28371015 -0.20960186 -0.3972714  -0.1747125  -0.88647537
+  0.43236122  0.27140697  0.16465495  0.00462732 -1.62441076 -0.8091543
+ -0.19059955 -0.91126748 -0.6512639  -0.26490801  0.16488964 -1.11855869
+  0.03767889  0.07661289 -1.59026182  0.39219774  0.39041522 -0.94672734
+ -0.72626251  0.3286349   0.08667665 -1.27472116 -0.37436686 -1.19043539
+ -0.34012613 -0.4191626   0.06753388 -1.43221653 -0.37385516 -0.08262261
+ -0.00546371 -0.95820946 -0.07076746 -0.2876859   0.06194436 -0.68893992
+ -0.46781582 -0.57974322 -0.35400875 -0.53132301 -0.62248186 -0.11901202
+ -1.47131414 -0.70223972 -0.15323285 -1.15687649 -1.44910394 -0.82212733
+ -0.42807687 -0.27441501  0.16216628  0.39060938  0.42496641 -0.57954239
+ -0.54929877 -0.28429302  0.00358362 -0.01515561 -0.35472123]
